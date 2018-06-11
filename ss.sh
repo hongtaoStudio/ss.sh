@@ -1,4 +1,4 @@
- /bin/bash
+#! /bin/bash
 # log路径
 export log_path=/etc/ss.log
 # 设置端口号
